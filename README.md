@@ -57,6 +57,8 @@ After that, we will do some cleaning like replacing the negative number of medal
 ### 8. Evaluating Our Model
 After this, we evaluate our model by finding it's *Mean Absolute Error*. To find the *MAE*, we use the function `mean_absolute_error()` that we imported from `sklearn.metrics`.
 
-<br>
+<br><br>
+
+> This project was a complete walkthrough of this [tutorial](https://youtu.be/Hr06nSA-qww?si=sHgYNu0jt_xOKKJv) by Dataquest.
 
 -------
